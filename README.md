@@ -1,4 +1,4 @@
-# Merge-conflicts
+REMOTE
 Quête 5
 Make conflict to resolve a conflict 
 Merge it 
